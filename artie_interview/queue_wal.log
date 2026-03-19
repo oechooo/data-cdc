@@ -1,0 +1,24 @@
+{"ts": 1773894277.313579, "operation": "push", "value": "a", "priority": null, "delay": 0}
+{"ts": 1773894277.3145812, "operation": "push", "value": "b", "priority": null, "delay": 0}
+{"ts": 1773894277.3160758, "operation": "pop"}
+{"ts": 1773894277.3160758, "operation": "pop"}
+{"ts": 1773894277.3160758, "operation": "push", "value": "a", "priority": null, "delay": 0}
+{"ts": 1773894277.3170857, "operation": "push", "value": "b", "priority": null, "delay": 0}
+{"ts": 1773894277.3170857, "operation": "pop"}
+{"ts": 1773894277.3170857, "operation": "pop"}
+{"ts": 1773894277.3184059, "operation": "push", "value": "low", "priority": 1, "delay": 0}
+{"ts": 1773894277.3194163, "operation": "push", "value": "high", "priority": 10, "delay": 0}
+{"ts": 1773894277.3194163, "operation": "push", "value": "normal", "priority": null, "delay": 0}
+{"ts": 1773894277.3204246, "operation": "pop"}
+{"ts": 1773894277.3204246, "operation": "pop"}
+{"ts": 1773894277.3204246, "operation": "pop"}
+{"ts": 1773894277.3214169, "operation": "push", "value": "a", "priority": 1, "delay": 0}
+{"ts": 1773894277.3214169, "operation": "push", "value": "b", "priority": 100, "delay": 0}
+{"ts": 1773894277.3214169, "operation": "push", "value": "c", "priority": 10, "delay": 0}
+{"ts": 1773894277.3224163, "operation": "pop"}
+{"ts": 1773894277.3224163, "operation": "pop"}
+{"ts": 1773894277.3224163, "operation": "pop"}
+{"ts": 1773894277.3234198, "operation": "push", "value": "a", "priority": null, "delay": 10}
+{"ts": 1773894277.3234198, "operation": "push", "value": "b", "priority": null, "delay": 0}
+{"ts": 1773894277.3234198, "operation": "pop"}
+{"ts": 1773894287.3248978, "operation": "pop"}
